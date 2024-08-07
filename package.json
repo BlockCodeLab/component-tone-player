@@ -8,6 +8,6 @@
   },
   "devDependencies": {
     "bun-types": "latest",
-    "bun-build": "link:bun-build"
+    "bun-build": "github:kankungyip/bun-build"
   }
 }
